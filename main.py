@@ -26,7 +26,7 @@ def palabra_frecuente(words):
 	return maxWord, maxFreq
 	
 
-sentence = "La clave del crecimiento es seguir creyendo. No te dejes engañar por esa voz negativa en tu cabeza. Sigue creyendo en tu potencial, en tu capacidad para superar obstáculos y en tu institnto para seguir adelante. La misma fuerza que has utilizado para llegar hasta aquí es la que te va a llevar aún más lejos de lo que imaginas"
+sentence = "la clave del crecimiento es seguir creyendo no te dejes engañar por esa voz negativa en tu cabeza sigue creyendo en tu potencial en tu capacidad para superar obstáculos y en tu instinto para seguir adelante la misma fuerza que has utilizado para llegar hasta aquí es la que te va a llevar aún más lejos de lo que imaginas"
 
 print("Palabras y su frecuencia de aparición: \n", palabras_repetidas(sentence))
 print()
